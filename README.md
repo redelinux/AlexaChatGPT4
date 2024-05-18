@@ -1,2 +1,2 @@
 # AlexaChatGPT4
-Integração da Alexa com o ChatPGR 4
+Integração da Alexa com o ChatGPT 4
